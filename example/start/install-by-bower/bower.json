@@ -1,0 +1,8 @@
+{
+	"name": "Semantic UI Example",
+	"version": "0.1.0",
+	"dependencies": {
+		"semantic-ui": null,
+		"jquery": null
+	}
+}
