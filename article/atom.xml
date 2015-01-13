@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Semantic Ui 探索]]></subtitle>
   <link href="/blog-framework-semantic-ui/article/atom.xml" rel="self"/>
   <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/"/>
-  <updated>2014-11-27T09:56:31.211Z</updated>
+  <updated>2015-01-13T01:09:57.825Z</updated>
   <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/</id>
   
   <author>
@@ -39,9 +39,9 @@
     
       <category term="index" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/tag/index/"/>
     
-      <category term="基本功" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/categorie/%E5%9F%BA%E6%9C%AC%E5%8A%9F/"/>
+      <category term="基本功" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/category/%E5%9F%BA%E6%9C%AC%E5%8A%9F/"/>
     
-      <category term="basic-skill" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/categorie/%E5%9F%BA%E6%9C%AC%E5%8A%9F/basic-skill/"/>
+      <category term="basic-skill" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/category/%E5%9F%BA%E6%9C%AC%E5%8A%9F/basic-skill/"/>
     
   </entry>
   
@@ -61,9 +61,9 @@
     
       <category term="start" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/tag/start/"/>
     
-      <category term="site" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/categorie/site/"/>
+      <category term="site" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/category/site/"/>
     
-      <category term="update" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/categorie/site/update/"/>
+      <category term="update" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/category/site/update/"/>
     
   </entry>
   
