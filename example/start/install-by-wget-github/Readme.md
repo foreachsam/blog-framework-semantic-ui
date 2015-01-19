@@ -3,7 +3,7 @@
 
 ## 說明
 
-這個安裝範例是利用wget直接下載的Semantic-UI放在GitHub上Release的[檔案](https://github.com/Semantic-Org/Semantic-UI/archive/1.0.zip)。
+這個安裝範例是利用wget直接下載的Semantic-UI放在GitHub上Release的[檔案](https://github.com/Semantic-Org/Semantic-UI/archive/1.7.3.zip)。
 
 
 ## 執行步驟

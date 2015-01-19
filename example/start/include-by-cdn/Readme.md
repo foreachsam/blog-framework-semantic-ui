@@ -8,7 +8,7 @@
 ## 執行步驟
 
 
-利用「php-cli」啟動一個「Web Server」
+利用「[php-cli](http://packages.ubuntu.com/trusty/php5-cli)」啟動一個「[Web Server](http://php.net/manual/en/features.commandline.webserver.php)」
 
 ``` sh
 $ ./run.sh
