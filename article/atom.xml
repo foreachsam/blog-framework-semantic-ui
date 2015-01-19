@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Semantic Ui 探索]]></subtitle>
   <link href="/blog-framework-semantic-ui/article/atom.xml" rel="self"/>
   <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/"/>
-  <updated>2015-01-15T03:03:19.908Z</updated>
+  <updated>2015-01-19T22:43:42.227Z</updated>
   <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/read/install/"/>
     <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/read/install/</id>
     <published>2014-11-15T11:45:47.000Z</published>
-    <updated>2014-11-15T11:54:19.000Z</updated>
+    <updated>2015-01-19T22:43:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="設定安裝「Semantic_UI」">設定安裝「Semantic UI」</h1>
 <h2 id="範例連結">範例連結</h2>
 <ul>
@@ -27,7 +27,6 @@
 <li>「<a href="/blog-framework-semantic-ui/example/start/install-by-bower/">install-by-bower</a>」- 「<a href="https://github.com/foreachsam/blog-framework-semantic-ui/tree/gh-pages/example/start/install-by-bower" target="_blank" rel="external">GitHub</a>」</li>
 <li>「<a href="/blog-framework-semantic-ui/example/start/install-by-git-github/">install-by-git-github</a>」- 「<a href="https://github.com/foreachsam/blog-framework-semantic-ui/tree/gh-pages/example/start/install-by-git-github" target="_blank" rel="external">GitHub</a>」</li>
 <li>「<a href="/blog-framework-semantic-ui/example/start/install-by-wget-github/">install-by-wget-github</a>」- 「<a href="https://github.com/foreachsam/blog-framework-semantic-ui/tree/gh-pages/example/start/install-by-wget-github" target="_blank" rel="external">GitHub</a>」</li>
-<li>「<a href="/blog-framework-semantic-ui/example/start/install-by-wget/">install-by-wget</a>」- 「<a href="https://github.com/foreachsam/blog-framework-semantic-ui/tree/gh-pages/example/start/install-by-wget" target="_blank" rel="external">GitHub</a>」</li>
 </ul>
 ]]></content>
     <summary type="html">
