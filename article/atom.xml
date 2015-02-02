@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Semantic Ui Explore]]></title>
+  <title><![CDATA[Semantic Ui Exploration]]></title>
   <subtitle><![CDATA[Semantic Ui 探索]]></subtitle>
   <link href="/blog-framework-semantic-ui/article/atom.xml" rel="self"/>
   <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/"/>
-  <updated>2015-01-19T22:43:42.227Z</updated>
+  <updated>2015-02-02T15:31:21.404Z</updated>
   <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/</id>
   
   <author>
