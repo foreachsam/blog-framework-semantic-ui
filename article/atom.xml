@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Semantic Ui Exploration]]></title>
-  <subtitle><![CDATA[Semantic Ui 探索]]></subtitle>
+  <title><![CDATA[Semantic Ui 探索]]></title>
+  <subtitle><![CDATA[Semantic Ui Exploration]]></subtitle>
   <link href="/blog-framework-semantic-ui/article/atom.xml" rel="self"/>
   <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/"/>
-  <updated>2015-02-02T15:31:21.404Z</updated>
+  <updated>2016-05-30T21:17:28.897Z</updated>
   <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/</id>
   
   <author>
@@ -12,16 +12,15 @@
     
   </author>
   
-  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title><![CDATA[設定安裝「Semantic UI」]]></title>
     <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/read/install/"/>
     <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/read/install/</id>
-    <published>2014-11-15T11:45:47.000Z</published>
-    <updated>2015-01-19T22:43:10.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="設定安裝「Semantic_UI」">設定安裝「Semantic UI」</h1>
-<h2 id="範例連結">範例連結</h2>
+    <published>2014-11-15T08:23:45.000Z</published>
+    <updated>2016-05-30T21:17:28.897Z</updated>
+    <content type="html"><![CDATA[<p>設定安裝「Semantic UI」<br>範例連結</p>
 <ul>
 <li>「<a href="/blog-framework-semantic-ui/example/start/include-by-cdn/">include-by-cdn</a>」- 「<a href="https://github.com/foreachsam/blog-framework-semantic-ui/tree/gh-pages/example/start/include-by-cdn" target="_blank" rel="external">GitHub</a>」</li>
 <li>「<a href="/blog-framework-semantic-ui/example/start/install-by-bower/">install-by-bower</a>」- 「<a href="https://github.com/foreachsam/blog-framework-semantic-ui/tree/gh-pages/example/start/install-by-bower" target="_blank" rel="external">GitHub</a>」</li>
@@ -34,9 +33,9 @@
     
     </summary>
     
-      <category term="install" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/tag/install/"/>
-    
       <category term="index" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/tag/index/"/>
+    
+      <category term="install" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/tag/install/"/>
     
       <category term="基本功" scheme="http://foreachsam.github.io/blog-framework-semantic-ui/article/find/category/%E5%9F%BA%E6%9C%AC%E5%8A%9F/"/>
     
@@ -48,13 +47,12 @@
     <title><![CDATA[開站拉！]]></title>
     <link href="http://foreachsam.github.io/blog-framework-semantic-ui/article/read/site/start/"/>
     <id>http://foreachsam.github.io/blog-framework-semantic-ui/article/read/site/start/</id>
-    <published>2014-11-15T11:35:56.000Z</published>
-    <updated>2014-11-15T11:38:00.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="開站拉！">開站拉！</h1>
-<p>開站拉，這個部落格，用來紀錄對「<a href="http://semantic-ui.com/" target="_blank" rel="external">Semantic UI</a>」的探索心得!</p>
+    <published>2014-11-15T08:23:11.000Z</published>
+    <updated>2016-05-30T21:08:29.434Z</updated>
+    <content type="html"><![CDATA[<h1 id="u958B_u7AD9_u62C9"><a href="#u958B_u7AD9_u62C9" class="headerlink" title="開站拉"></a>開站拉</h1><p>開站拉，這個部落格，用來紀錄對「<a href="http://semantic-ui.com/" target="_blank" rel="external">Semantic UI</a>」的探索心得!</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[開站紀錄！]]>
+    <![CDATA[開站拉，這個部落格，用來紀錄對「Semantic UI」的探索心得!]]>
     
     </summary>
     
